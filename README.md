@@ -1,4 +1,4 @@
-[![Developer Banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.LHitw33Y-KCW8qnJ3FPnEQHaEK%26pid%3DApi&f=1&ipt=2ad3487c4df7aa4dbc2d7b54af5c3f4a8362922fe330f9846e408c8c18bed358&ipo=images)](https://github.com/karlbrown87)
+[![Developer Banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tdswan2UOD1LO5-PVyx5MQHaEK%26pid%3DApi&f=1&ipt=211944b8d39d2a90003cd0fd19720cc692b1fc665e4217b311d9fd93b0c3e59b&ipo=images)](https://github.com/karlbrown87)
 
 Hi there! I'm **Carlos**, a passionate and dedicated software developer with a flair for creating dynamic, efficient, and innovative solutions. Welcome to my special repository where creativity meets code!
 
