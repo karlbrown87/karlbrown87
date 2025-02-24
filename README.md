@@ -56,4 +56,30 @@ For more details, check out my [GitHub repositories](https://github.com/karlbrow
 
 ## GitHub Stats
 
-<
+<div align="center">
+  <a href="https://github.com/karlbrown87" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=karlbrown87&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/karlbrown87" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlbrown87&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</div>
+
+---
+
+## Connect with Me
+
+<div align="center">
+  <a href="https://ee.linkedin.com/in/carlos-guzm%C3%A1n-7353a79b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://utmstack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <em>Thank you for visiting my profile! Let's create something amazing together.</em>
+</div>
