@@ -40,15 +40,15 @@ I'm a passionate and dedicated software developer with a flair for creating dyna
 Here are a few projects that highlight my skills and passion for development:
 
 - **[UTMStack](https://github.com/utmstack/UTMStack)**  
-  A brief description of what this project is about and the technologies used.
+  Enterprise-ready SIEM and XDR powered by Real-Time correlation and Threat Intelligence.
 - **[UTMStackFSInstaller](https://github.com/karlbrown87/UTMStackFSInstaller)**  
-  A brief description of what this project is about and the technologies used.
+  Federated Multi-tenancy for UTMStack Instance.
 - **[CronDataInstaller](https://github.com/karlbrown87/CronDataInstaller)**  
-  An innovative project solving real-world problems with creativity and precision.
+  CronData Monitoring Tools.
 - **[TunnelVPN](https://github.com/karlbrown87/TunnelVPN)**  
-  A collaborative project that showcases teamwork and modern development practices.
+  This project includes scripts to set up a VPN server and configure clients to connect to the server.
 - **[PostgresSQL+PgAgent+Docker](https://github.com/karlbrown87/PostgreSQL-PgAgent)**  
-  A project that highlights efficient teamwork in solving complex challenges.
+  This repository is to allow you to run the PostgreSQL database together with pgAgent in one container. PgAgent gives you the ability to run recurring jobs inside the database.
   
 For more details, check out my [GitHub repositories](https://github.com/karlbrown87?tab=repositories).
 
