@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/karlbrown87" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tdswan2UOD1LO5-PVyx5MQHaEK%26pid%3DApi&f=1&ipt=211944b8d39d2a90003cd0fd19720cc692b1fc665e4217b311d9fd93b0c3e59b&ipo=images" alt="Developer Banner" style="width:100%; max-width:800px;">
+    <img src="https://wallpaperaccess.com/full/1338362.png=images" alt="Developer Banner" style="width:100%; max-width:800px;">
   </a>
   <br>
 </div>
