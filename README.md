@@ -31,6 +31,8 @@ I'm a passionate and dedicated software developer with a flair for creating dyna
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff" alt="C++">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker">
 </div>
 
 ---
