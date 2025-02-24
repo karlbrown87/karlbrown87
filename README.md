@@ -47,8 +47,8 @@ For more details, check out my [GitHub repositories](https://github.com/karlbrow
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/karlbrown87)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/karlbrown87)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlbrown87&show_icons=true&theme=radical)](https://github.com/karlbrown87)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlbrown87&layout=compact&theme=radical)](https://github.com/karlbrown87)
 
 ---
 
