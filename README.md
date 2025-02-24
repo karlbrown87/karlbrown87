@@ -1,6 +1,14 @@
-[![Developer Banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tdswan2UOD1LO5-PVyx5MQHaEK%26pid%3DApi&f=1&ipt=211944b8d39d2a90003cd0fd19720cc692b1fc665e4217b311d9fd93b0c3e59b&ipo=images)](https://github.com/karlbrown87)
+<div align="center">
+  <a href="https://github.com/karlbrown87" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tdswan2UOD1LO5-PVyx5MQHaEK%26pid%3DApi&f=1&ipt=211944b8d39d2a90003cd0fd19720cc692b1fc665e4217b311d9fd93b0c3e59b&ipo=images" alt="Developer Banner" style="width:100%; max-width:800px;">
+  </a>
+  <br>
+  [![GitHub followers](https://img.shields.io/github/followers/karlbrown87?style=social)](https://github.com/karlbrown87)
+</div>
 
-Hi there! I'm **Carlos**, a passionate and dedicated software developer with a flair for creating dynamic, efficient, and innovative solutions. Welcome to my special repository where creativity meets code!
+# Hi there, I'm Carlos 👋
+
+I'm a passionate and dedicated software developer with a flair for creating dynamic, efficient, and innovative solutions. Welcome to my special repository where creativity meets code!
 
 ---
 
@@ -10,19 +18,21 @@ Hi there! I'm **Carlos**, a passionate and dedicated software developer with a f
 - 🌱 I’m continually learning new technologies and refining my skills.
 - 🤝 I’m open to collaborating on innovative and challenging projects.
 - 💬 Ask me about **JavaScript, Python, or any cutting-edge tech stack!**
-- 📫 How to reach me: [carlosgr1987@gmail.com](mailto:carlosgr1987@gmail.com)
+- 📫 Reach me at: <a href="mailto:carlosgr1987@gmail.com">carlosgr1987@gmail.com</a>
 - ⚡ Fun Fact: I love coding, coffee, and solving complex puzzles.
 
 ---
 
 ## Skills & Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node.js">
+</div>
 
 ---
 
@@ -39,7 +49,7 @@ Here are a few projects that highlight my skills and passion for development:
 - **[TunnelVPN](https://github.com/karlbrown87/TunnelVPN)**  
   A collaborative project that showcases teamwork and modern development practices.
 - **[PostgresSQL+PgAgent+Docker](https://github.com/karlbrown87/PostgreSQL-PgAgent)**  
-  A collaborative project that showcases teamwork and modern development practices.
+  A collaborative project that highlights efficient teamwork in solving complex challenges.
   
 For more details, check out my [GitHub repositories](https://github.com/karlbrown87?tab=repositories).
 
@@ -47,16 +57,31 @@ For more details, check out my [GitHub repositories](https://github.com/karlbrow
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlbrown87&show_icons=true&theme=radical)](https://github.com/karlbrown87)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlbrown87&layout=compact&theme=radical)](https://github.com/karlbrown87)
+<div align="center">
+  <a href="https://github.com/karlbrown87" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=karlbrown87&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/karlbrown87" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlbrown87&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</div>
 
 ---
 
 ## Connect with Me
 
-- [LinkedIn](https://ee.linkedin.com/in/carlos-guzm%C3%A1n-7353a79b)
-- [Portfolio Website](https://utmstack.com)
+<div align="center">
+  <a href="https://ee.linkedin.com/in/carlos-guzm%C3%A1n-7353a79b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://utmstack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ---
 
-*Thank you for visiting my profile! Let's create something amazing together.*
+<div align="center">
+  <em>Thank you for visiting my profile! Let's create something amazing together.</em>
+</div>
+
