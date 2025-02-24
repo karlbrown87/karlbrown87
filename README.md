@@ -3,7 +3,7 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tdswan2UOD1LO5-PVyx5MQHaEK%26pid%3DApi&f=1&ipt=211944b8d39d2a90003cd0fd19720cc692b1fc665e4217b311d9fd93b0c3e59b&ipo=images" alt="Developer Banner" style="width:100%; max-width:800px;">
   </a>
   <br>
-  [![GitHub followers](https://img.shields.io/github/followers/karlbrown87?style=social)](https://github.com/karlbrown87)
+  [![GitHub followers](https://img.shields.io/github/followers/karlbrown87?label=Follow&style=social)](https://github.com/karlbrown87)
 </div>
 
 # Hi there, I'm Carlos 👋
@@ -49,7 +49,7 @@ Here are a few projects that highlight my skills and passion for development:
 - **[TunnelVPN](https://github.com/karlbrown87/TunnelVPN)**  
   A collaborative project that showcases teamwork and modern development practices.
 - **[PostgresSQL+PgAgent+Docker](https://github.com/karlbrown87/PostgreSQL-PgAgent)**  
-  A collaborative project that highlights efficient teamwork in solving complex challenges.
+  A project that highlights efficient teamwork in solving complex challenges.
   
 For more details, check out my [GitHub repositories](https://github.com/karlbrown87?tab=repositories).
 
@@ -57,31 +57,4 @@ For more details, check out my [GitHub repositories](https://github.com/karlbrow
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/karlbrown87" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=karlbrown87&show_icons=true&theme=radical" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/karlbrown87" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlbrown87&layout=compact&theme=radical" alt="Top Languages">
-  </a>
-</div>
-
----
-
-## Connect with Me
-
-<div align="center">
-  <a href="https://ee.linkedin.com/in/carlos-guzm%C3%A1n-7353a79b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://utmstack.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <em>Thank you for visiting my profile! Let's create something amazing together.</em>
-</div>
-
+<
