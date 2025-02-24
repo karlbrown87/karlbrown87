@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/karlbrown87" target="_blank">
-    <img src="https://wallpaperaccess.com/full/1338362.png=images" alt="Developer Banner" style="width:100%; max-width:800px;">
+    <img src="https://wallpaperaccess.com/full/1338362.png" alt="Developer Banner" style="width:100%; max-width:800px;">
   </a>
   <br>
 </div>
