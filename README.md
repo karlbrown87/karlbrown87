@@ -17,7 +17,6 @@ I'm a passionate and dedicated software developer with a flair for creating dyna
 - 🌱 I’m continually learning new technologies and refining my skills.
 - 🤝 I’m open to collaborating on innovative and challenging projects.
 - 💬 Ask me about **JavaScript, Python, or any cutting-edge tech stack!**
-- 📫 Reach me at: <a href="mailto:carlosgr1987@gmail.com">carlosgr1987@gmail.com</a>
 - ⚡ Fun Fact: I love coding, coffee, and solving complex puzzles.
 
 ---
